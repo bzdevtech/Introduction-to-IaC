@@ -1,0 +1,8 @@
+
+# Sensitive credentials
+odoo_pg_pass
+config/odoo.conf
+
+# Temporary editor backup files
+*~
+*.un~
